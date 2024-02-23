@@ -87,7 +87,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="collecitonView" destination="PEr-Xs-IDq" id="ZSR-VY-qiY"/>
+                        <outlet property="collectionView" destination="PEr-Xs-IDq" id="bIY-J1-hKK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
